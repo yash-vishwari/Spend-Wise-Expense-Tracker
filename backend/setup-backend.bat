@@ -86,9 +86,6 @@ echo SECRET_KEY=your-secret-key-change-in-production > .env
 echo DATABASE_URL=sqlite:///./spendwise.db >> .env
 
 echo.
-echo ========================================
-echo   BACKEND SETUP COMPLETE! ✅
-echo ========================================
 echo.
 echo To start backend:
 echo   venv\Scripts\activate
